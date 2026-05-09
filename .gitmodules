@@ -1,3 +1,6 @@
 [submodule "snk-visualizer"]
 	path = snk-visualizer
 	url = https://github.com/xdr940/snk-visualizer.git
+[submodule "snk-scenario"]
+	path = snk-scenario
+	url = https://github.com/xdr940/snk-scenario.git
