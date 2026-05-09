@@ -4,3 +4,6 @@
 [submodule "snk-scenario"]
 	path = snk-scenario
 	url = https://github.com/xdr940/snk-scenario.git
+[submodule "snk-server"]
+	path = snk-server
+	url = https://github.com/xdr940/snk-server.git
