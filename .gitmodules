@@ -7,3 +7,6 @@
 [submodule "snk-server"]
 	path = snk-server
 	url = https://github.com/xdr940/snk-server.git
+[submodule "snklib"]
+	path = snklib
+	url = https://github.com/xdr940/snklib.git
