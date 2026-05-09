@@ -1,0 +1,3 @@
+[submodule "snk-visualizer"]
+	path = snk-visualizer
+	url = https://github.com/xdr940/snk-visualizer.git
